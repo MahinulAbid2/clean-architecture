@@ -1,4 +1,4 @@
-![1703498599259_page-0011](https://github.com/MahinulAbid2/clean-architecture/assets/70069009/356e45c1-0d8a-4ab3-becc-d124bf2376d9)![1703498599259_page-0010](https://github.com/MahinulAbid2/clean-architecture/assets/70069009/6559254e-07d3-4722-96fc-d7e882d27408)# Clean Architecture [seperation of concerns]
+# Clean Architecture [seperation of concerns]
 A  blue print for modular system that follows the design principles that follow `SEPERATION OF CONCERNS`.
 ![1703498599259_page-0001](https://github.com/MahinulAbid2/clean-architecture/assets/70069009/1cd60ef6-7cb0-4a24-ae68-9af828d08ba6)
 ![1703498599259_page-0002](https://github.com/MahinulAbid2/clean-architecture/assets/70069009/ddd57e2b-1c40-4386-908e-18cf4541ce4d)
