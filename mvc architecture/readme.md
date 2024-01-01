@@ -21,4 +21,12 @@ mongoose.model. For now, that's what it is.
 <br>
 
 # Controller
-* It is collection of function-module that does logical database operation.
+* It is collection of `function-module` that does logical database operation.
+* It is a collection of function module that will be called in `router`.
+
+<br>
+<br>
+
+# Route
+* Route is not part of MVC.
+* But `Model` is used in `controller`. And then `controller` is called in `router`. <b> That's the flow of MVC </b>
